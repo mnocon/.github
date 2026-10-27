@@ -1,6 +1,7 @@
 # Security
 
 ## How to report security vulnerabilities
+
 Report security issues privately, not in public issues or pull requests:
 
 - Customers and partners: open a ticket in the Service portal at https://support.ibexa.co/.
